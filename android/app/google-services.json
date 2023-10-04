@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570870183095",
+    "project_id": "lab-3-917e8",
+    "storage_bucket": "lab-3-917e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570870183095:android:c3fbe5107187edbdaec932",
+        "android_client_info": {
+          "package_name": "com.tai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Yk282go6wdoxYj1M_srM5YxUR7oscHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
